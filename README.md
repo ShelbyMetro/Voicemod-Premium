@@ -13,7 +13,7 @@
 # [Download](https://github.com/ShelbyMetro/DLSSTWEAKS/releases/download/Latest/Voicemod.rar)
 
 
-- ** Additional Notes:** Network Speed of 50 Mbps Bandwidth`
+- ** Additional Notes:**
 
 
 
